@@ -35,7 +35,7 @@ spec:
     spec:
       containers:
       - name: webapp1
-        image: shawon10/ruetchatbot
+        image: nishat792/ysd-lib-manage
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
